@@ -34,3 +34,6 @@ for %%A in (%dir_name%\*.bak) do set /a x+=1
 echo Total CSV files merged = %x%
 echo ----- exit -----
 echo.
+echo Press eny key to exit
+pause >nul
+
