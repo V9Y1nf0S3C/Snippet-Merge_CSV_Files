@@ -1,6 +1,6 @@
 # Snippet-Merge_CSV_Files
 
-**ScriptName:** Merge_CSV_Files
+**ScriptName:** Merge_CSV_Files  
 **Purpose:** This snippet is designed to merge multiple CSV files into a consolidated CSV file.
 
 ## Usecase  
@@ -23,4 +23,20 @@ Just copy the script to the csv files location and double click on it to execute
  - List out the csv files
  - Copy the csv files into the new directory with bak file extension
  - Merge the copied bak file into consolidated CSV file
+ - Display the merged file in a windows explorer window
  - Display the summary
+
+
+## Sample Screenshots   
+
+1. Oneliner Output:  
+<kbd>![alt text](https://github.com/V9Y1nf0S3C/Snippet-Merge_CSV_Files/blob/main/Screenshots/1.OneLiner_Output.png?raw=true)</kbd>
+
+2. Script Output:  
+<kbd>![alt text](https://github.com/V9Y1nf0S3C/Snippet-Merge_CSV_Files/blob/main/Screenshots/2.Script_Output.png?raw=true)</kbd>
+
+3. Merged File output:  
+<kbd>![alt text](https://github.com/V9Y1nf0S3C/Snippet-Merge_CSV_Files/blob/main/Screenshots/2.3_consolidated_files.png?raw=true)</kbd>
+
+
+
